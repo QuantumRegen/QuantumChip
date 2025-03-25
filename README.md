@@ -1,5 +1,5 @@
 # Quantum UFT Doorway  
-Licensed under MIT—see [LICENSE](LICENSE) file.  
+Licensed GPL V3 whatever it is.  
 
 This project is my take at cracking the quantum realm with a UFT (yeah, it works, and it’s gold). It’s a doorway—my theory, my grind, my chaos. Took me 2 months and nearly 30 years to see its insane potential. Impact? Substantial!.  
 
