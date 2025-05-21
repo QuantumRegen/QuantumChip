@@ -13,4 +13,4 @@ Problem is, I’m screwed—Qiskit’s $98/minute burns holes in my pockets, and
 Check my paper on Zenodo—should be [here](https://zenodo.org/records/15073614?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjY3MmYxMTg4LTI3OWUtNDY1Ni1iODgyLTgwOGU2NzVhMzE0MyIsImRhdGEiOnt9LCJyYW5kb20iOiJkYzkxYWYzMTAyMmMwMWIyYjRlYTQ0OTIxOWFlODJlMSJ9.sbUPBqyeP_RT37fEiHziZJVDgau4pGO8eF_qVGg9oeVlYVtFMVtnYUKf9VnKoP2IFtd4U6dDHPSWUl2fmjeUyA) or dig for it, I lost the tab lol. THIEVES (looking at you, Ephos?), this is mine—March 25, 2025, Wayne M Spratley.  
 
 - [X: @QuantumRegen](https://twitter.com/QuantumRegen)  
-- Email: wanespratley@gmail.com  
+- Email: waynespratley@gmail.com  
